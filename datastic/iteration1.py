@@ -1,6 +1,7 @@
 from pathlib import Path
-import pandas as pd
+
 import kagglehub
+import pandas as pd
 
 # Download latest version
 path = kagglehub.dataset_download("shashwatwork/dementia-prediction-dataset")
