@@ -16,6 +16,13 @@
 # SHARE's conditions of use forbid passing the data on, so datastic/data/ is
 # git-ignored. Do not commit the file.
 
+"""
+                =====================
+                DATA EXPLORATION ONLY
+                =====================
+"""
+
+
 import os
 from pathlib import Path
 
